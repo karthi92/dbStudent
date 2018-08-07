@@ -3,6 +3,6 @@
         {"id": 1, "name":"karthik", "age": 26},
         {"id": 2, "name":"Ashwini", "age": 25},
         {"id": 3, "name":"Navin", "age": 33},
-        {"id": 4, "name":"Kanch", "age": 30},
+        {"id": 4, "name":"Kanch", "age": 30}
     ]
 }
